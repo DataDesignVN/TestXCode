@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    // Huycuong is hre
+    NSLog(@"huycuong is her");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
