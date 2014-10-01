@@ -24,7 +24,9 @@
     
     
     NSLog(@"huycuong is her222");
-      NSLog(@"thien chuong is her22");
+    NSLog(@"thien chuong is her22");
+    
+       NSLog(@"CHUONG TU SUONG");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
