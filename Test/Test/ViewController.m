@@ -20,6 +20,9 @@
     // Huycuong is hre
     NSLog(@"huycuong is her");
     
+    NSLog(@"thien chuong is her");
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
