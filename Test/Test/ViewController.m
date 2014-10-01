@@ -23,6 +23,8 @@
     NSLog(@"thien chuong is her");
     
     
+    NSLog(@"huycuong is her222");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
